@@ -3,20 +3,24 @@ html {
   color: white;
   background-image: url(../images/space.jpg);
 }
-h1 {
+#title {
   color: orangered;
   font-size: 5em;
   text-align: center;
+  background: none;
+  border: 1px solid white;
+  margin-left: 120px;
+  margin-right: 120px;
 }
-a{
+#link{
   color: orangered;
 }
 table, th, td{
-  border: 0.8px solid white;
+  border: 1px solid white;
   text-align: center;
   background: black;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 120px;
+  margin-right: 120px;
   padding: 9px;
   border-collapse: collapse;
   margin-bottom: 100px;
