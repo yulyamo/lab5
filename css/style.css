@@ -15,10 +15,7 @@ html {
   color: orangered;
 }
 table{
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 100px;
-  margin-top: 50px;
+margin: auto;
 }
 table, th, td{
   border: 1px solid white;
