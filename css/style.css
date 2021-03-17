@@ -8,8 +8,8 @@ html {
   font-size: 5em;
   text-align: center;
   background: none;
-  margin-left: 120px;
-  margin-right: 120px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
 }
 #link{
   color: orangered;
@@ -18,8 +18,8 @@ table, th, td{
   border: 1px solid white;
   text-align: center;
   background: black;
-  margin-left: 120px;
-  margin-right: 120px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
   padding: 9px;
   border-collapse: collapse;
   margin-bottom: 100px;
